@@ -1,19 +1,21 @@
 ### Hi there 👋 
 
 > -Introduction
->   > My name is Minse Kim (AI Cyber Security, Korea Univ. Sejong)
->   >   > Currently studying web programming & computer security
+>> My name is Minse Kim (AI Cyber Security, Korea Univ. Sejong)  
+>> Currently studying web programming & computer security
 
--Career
-* Korea Southern Power CO. (KOSPO) Web Security CTF 1st
-* DNS Lab of Korea Univ. Sejong
-* R6PC Observer & Server management (Rainbow six seige hub) 
-* ex.StarRise Manager (Rainbow six seige team)
+> -Career
+>> Korea Southern Power CO. (KOSPO) Web Security CTF 1st  
+>> DNS Lab of Korea Univ. Sejong  
+>> R6PC Observer & Server management (Rainbow six seige hub)  
+>> ex.StarRise Manager (Rainbow six seige team)  
 
 ***
 
-##### 세민#4032 (Discord) minse0204@korea.ac.kr (Email)
-##### @semin_ee (Twitter) @rlatpals._ (Instagram)
+###### 세민#4032 (Discord)
+###### minse0204@korea.ac.kr (Email)
+###### @semin_ee (Twitter)
+###### @rlatpals._ (Instagram)
 
 ***
   
