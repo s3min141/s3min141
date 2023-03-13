@@ -10,6 +10,10 @@
 >> R6PC Observer & Server management (Rainbow six seige hub)  
 >> ex.StarRise Manager (Rainbow six seige team)  
 
+> -CVE
+>> CVE‑2022‑42291 (Nvidia)
+>> CVE‑2022‑31611 (Nvidia)
+
 ***
 
 ###### 세민#4032 (Discord)
