@@ -60,6 +60,7 @@ I hope to create services that bring ease and value to people's everyday lives.
 <div align="left">
     <h4><a href="https://github.com/advisories/GHSA-qr8h-mpxp-qw6p">CVE‑2022‑42291 (Nvidia)</a></h4>
     <h4><a href="https://github.com/advisories/GHSA-2v62-25cm-4v7w">CVE‑2022‑31611 (Nvidia)</a></h4>
+    <h4><a href="https://support.apple.com/ko-kr/126800">CVE-2026-28857 (Apple Webkit)</a>a</h4>
 </div>
 
 <br />
